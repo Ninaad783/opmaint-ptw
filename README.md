@@ -35,7 +35,7 @@ This module was engineered from the ground up to reflect actual shop-floor reali
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/<your-username>/opmaint-ptw.git
+git clone https://github.com/Ninaad783/opmaint-ptw.git
 cd opmaint-ptw
 npm install
 ```

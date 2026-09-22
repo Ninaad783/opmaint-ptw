@@ -22,7 +22,7 @@
 ## 🎙️ Step-by-Step Spoken Script
 
 ### 1. Introduction & Domain Understanding (0:00 – 1:15)
-> *"Hi Tanzeel and the Opmaint team, my name is [Your Name], and I'm excited to present my Permit to Work module for Opmaint CMMS.*
+> *"Hi Tanzeel and the Opmaint team, my name is Ninaad Kumbhar, and I'm excited to present my Permit to Work module for Opmaint CMMS.*
 >
 > *Before writing any code, I took your advice and spent time researching how permits to work operate in Indian industrial plants. In a refinery or an automotive plant, a PTW is not just a generic to-do app with a permit label. It is the single highest-stakes document on site. If a contractor welds a pipe rack without checking atmospheric LEL levels or ensuring combustible clearance, the failure mode is a person getting hurt, an explosion, and no regulatory audit record.*
 >
@@ -88,14 +88,14 @@
 ## 📋 Email Template for Submission
 
 **To**: `tanzeel@opmaint.com`  
-**Subject**: `Web Dev Intern Assignment — <Your Name>`  
+**Subject**: `Web Dev Intern Assignment — Ninaad Kumbhar`  
 
 ```text
 Hi Tanzeel,
 
 Please find my submission for the Opmaint Web Development Intern Assignment: Build a Permit to Work module for a CMMS.
 
-1. GitHub Repository: https://github.com/<your-username>/opmaint-ptw
+1. GitHub Repository: https://github.com/Ninaad783/opmaint-ptw
    (Added you as collaborator / public repo with full commit history)
 
 2. Live Deployed Link: https://opmaint-ptw.vercel.app (or your deployed link)
@@ -112,7 +112,6 @@ Key Highlights of the Build:
 Looking forward to hearing your feedback!
 
 Best regards,
-<Your Name>
-<Your Phone>
-<Your LinkedIn / Portfolio>
+Ninaad Kumbhar
+ninaadkumbhar@gmail.com
 ```
